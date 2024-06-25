@@ -1,3 +1,5 @@
+<h2 align="left">Hi 👋! My name is ArceGonzalez and I'm a Programmer Peru</h2>
+
 ###
 
 <div align="center">
@@ -6,18 +8,6 @@
 </div>
 
 ###
-
-- 🌱 I’m currently learning **Git**
-
-- 👯 I’m looking to collaborate on **small projects**
-
-- 📝 I regularly write articles on [ArceGonzalez.github.io](ArceGonzalez.github.io)
-
-- 📫 How to reach me **josefrancisco.dev@gmail.com**
-
-<h2 align="left">Hi 👋! My name is ArceGonzalez and I'm a Programmer Peru</h2>
-
-
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pxZHkxZTRucGIydHdlOXE0Y2Z3dGd4dWh6ZWh4aHlxcGpzcjN4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"  />
 
@@ -61,4 +51,3 @@
 <img src="https://raw.githubusercontent.com/ArceGonzalez/ArceGonzalez/output/snake.svg" alt="Snake animation" />
 
 ###
-
